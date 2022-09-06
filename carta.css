@@ -1,0 +1,18 @@
+#footer {
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+}
+
+#footer a {
+  color: lightgrey;
+  font-size: 25px;
+}
+
+#footer ul {
+    margin-left: 50%;
+}
+
+#footer a:hover {
+  color: white;
+}
